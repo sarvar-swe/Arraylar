@@ -1,0 +1,14 @@
+C:\Users\sazod\dev\dotnet\Arraylar\bin\Debug\net8.0\Arraylar.exe
+C:\Users\sazod\dev\dotnet\Arraylar\bin\Debug\net8.0\Arraylar.deps.json
+C:\Users\sazod\dev\dotnet\Arraylar\bin\Debug\net8.0\Arraylar.runtimeconfig.json
+C:\Users\sazod\dev\dotnet\Arraylar\bin\Debug\net8.0\Arraylar.dll
+C:\Users\sazod\dev\dotnet\Arraylar\bin\Debug\net8.0\Arraylar.pdb
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.AssemblyInfoInputs.cache
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.AssemblyInfo.cs
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.csproj.CoreCompileInputs.cache
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.dll
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\refint\Arraylar.dll
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.pdb
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\Arraylar.genruntimeconfig.cache
+C:\Users\sazod\dev\dotnet\Arraylar\obj\Debug\net8.0\ref\Arraylar.dll
